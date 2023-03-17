@@ -15,6 +15,9 @@
 	padding: 0;
 	
 }
+html {
+	height: 100%;
+  }
 
 body {
 	font-family: Cormorant Upright;
@@ -23,7 +26,7 @@ body {
 	background-image: url('../images/Mask\ Group.png');
 	background-size: cover;
 	background-repeat: no-repeat;
-	
+	background-position: center;
 }
 
 ul {
