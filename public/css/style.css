@@ -24,8 +24,8 @@ body {
 	font-size: 16px;
 	height: 100%;
 	background-image: url('../images/Mask\ Group.png');
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	
 	background-position: center;
 }
 
@@ -245,6 +245,10 @@ a {
 	.chat-sidebar {
 		display: none;
 	}
+	.chat-messages-container {
+		height: 500px;
+		
+	}	
 }
 
 @media (max-width: 450px) {
