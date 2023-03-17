@@ -23,6 +23,7 @@ body {
 	background-image: url('../images/Mask\ Group.png');
 	background-size: cover;
 	background-repeat: no-repeat;
+	
 }
 
 ul {
@@ -252,5 +253,8 @@ a {
 	}
 	.chat-messages .message {
 		width: 85%;
+	}
+	.chat-container {
+	  width: 85%;
 	}
 }
